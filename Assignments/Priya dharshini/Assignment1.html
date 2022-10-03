@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {font-family: Arial, Helvetica, sans-serif;}
+* {box-sizing: border-box;
+}
+
+input[type=text] {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+}
+input[type=integer] {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+}
+input[type=email]{
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+}
+
+input[type=SUBMIT] {
+  background-color: #04AA6D;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+input[type=SUBMIT]:hover {
+  background-color: #45a049;
+}
+
+.container {
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 50px;
+}
+</style>
+</head>
+<body>
+<center><h3>IBM FORM</h3></center>
+<div class="container">
+  <form action="/action_page.php">
+    <label for="NAME"> NAME</label>
+    <input type="text" id="NAME" name="NAME" placeholder="Your name..">
+
+    <label for="QUALIFICATION">QUALIFICATION</label>
+    <input type="text" id="QUALIFICATION" name="QUALIFICATION" placeholder="Your qualification..">
+
+   <label for="AGE">AGE</label>
+    <input type="integer" id="AGE" name="AGE" placeholder="Your age"><br>
+
+    <label for="EMAIL">EMAIL</label>
+    <input type="EMAIL" id="EMAIL" name="EMAIL" placeholder="Your email"><br>
+<center>
+    <input type="SUBMIT" value="SUBMIT">
+</center>
+  </form>
+</div>
+
+</body>
+</html>
