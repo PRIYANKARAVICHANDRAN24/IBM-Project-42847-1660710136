@@ -34,7 +34,7 @@ R.PRIYANKA
 S.PRIYA DHARSHINI
 ```
 
-#**Skills :**
+# **🎯Skills Required:**    
 
 IBM Cloud HTML Javascript IBM Cloud Object Storage Python Flask Kubernetes Docker IBM DB2 IBM Container Registry
 
