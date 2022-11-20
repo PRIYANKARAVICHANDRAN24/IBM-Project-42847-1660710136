@@ -34,6 +34,9 @@ R.PRIYANKA
 S.PRIYA DHARSHINI
 ```
 
+# **📜PROJECT DESCRIPTION:** 
+  Nutrition Assistant Application aims at building a web App that automatically estimates food attributes such as ingredients and nutritional value by classifying the input image of food. It helps to plan and prepare nutritious meals for people who need them. It may also be responsible for educating patients about healthy eating habits. Our method employs Clarifai's AI-Driven Food Detection Model for accurate food identification and Food API's to give the nutritional value of the identified food. User interacts with the Web App to Load an image.The image is passed to the server application, which uses Clarifai's AI-Driven Food Detection Model Service to analyze the images and Nutrition API to provide nutritional information about the analyzed Image. Nutritional information of the analyzed image is returned to the app for display
+
 
 # **🎯Skills Required:**    
 ```html
