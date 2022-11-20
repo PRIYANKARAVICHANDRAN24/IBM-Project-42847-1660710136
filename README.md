@@ -34,10 +34,19 @@ R.PRIYANKA
 S.PRIYA DHARSHINI
 ```
 
+
 # **🎯Skills Required:**    
-
-IBM Cloud HTML Javascript IBM Cloud Object Storage Python Flask Kubernetes Docker IBM DB2 IBM Container Registry
-
+```html
+IBM Cloud HTML 
+Javascript IBM 
+Cloud Object Storage 
+Python 
+Flask 
+Kubernetes 
+Docker 
+IBM DB2 
+IBM Container Registry.
+```
 #**Watson chat assistant link:**
 
 #**Team_Member 1 ( SATHIYA PRIYA I. ) Assignment-3:**
