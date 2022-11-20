@@ -13,32 +13,31 @@
   
   <div align="center">
   
- # **Smart Waste Management System For Metropolitan Cities**      
+ # **NUTRITION ASSISTANT APPLICATION**      
    </div> 
 
-Skills :
-IBM Cloud HTML Javascript IBM Cloud Object Storage Python Flask Kubernetes Docker IBM DB2 IBM Container Registry
-
 Team ID : PNT2022TMID7822 
+TECHNOLOGY : CLOUD COMPUTING  
+
+
+
 
 
 Batch No: B8- 2A4E
 
-Team Leader :
+# **👩‍👦TEAM MEMBERS**
 S.REENA KATHERINE 
-
-Team members :
-
 I.SATHIYA PRIYA
-
 R.PRIYANKA
-
 S.PRIYA DHARSHINI
 
 
-Watson chat assistant link:
+#**Skills :**
+IBM Cloud HTML Javascript IBM Cloud Object Storage Python Flask Kubernetes Docker IBM DB2 IBM Container Registry
 
-Team_Member 1 ( SATHIYA PRIYA I. ) Assignment-3:
+#**Watson chat assistant link:**
+
+#**Team_Member 1 ( SATHIYA PRIYA I. ) Assignment-3:**
 
 https://web-chat.global.assistant.watson.appdomain.cloud/preview.html?backgroundImageURL=https%3A%2F%2Fus-south.assistant.watson.cloud.ibm.com%2Fpublic%2Fimages%2Fupx-d423aafb-b0e2-4bae-8cbb-0cf69b619e31%3A%3A4fdd2e2e-1caf-44e4-9693-10add44c3935&integrationID=c5776d1d-e84b-400b-b399-7833326ad03d&region=us-south&serviceInstanceID=d423aafb-b0e2-4bae-8cbb-0cf69b619e31
 ![Snake animation](https://github.com/gogulkrish/snak-/blob/main/rafaballerini-output/github-contribution-grid-snake.svg)
