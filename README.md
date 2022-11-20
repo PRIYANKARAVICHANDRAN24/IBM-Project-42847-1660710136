@@ -26,11 +26,12 @@ TECHNOLOGY : CLOUD COMPUTING
 Batch No: B8- 2A4E
 
 # **👩‍👦TEAM MEMBERS**
+```html
 S.REENA KATHERINE 
 I.SATHIYA PRIYA
 R.PRIYANKA
 S.PRIYA DHARSHINI
-
+```
 
 #**Skills :**
 IBM Cloud HTML Javascript IBM Cloud Object Storage Python Flask Kubernetes Docker IBM DB2 IBM Container Registry
